@@ -56,6 +56,7 @@
   - Outils de versionnement de code
   - Suivi de projets informatiques
   - Utilisation de websockets en C++
+  - Programmation sur RaspberryPi 
 
 <hr>
 
