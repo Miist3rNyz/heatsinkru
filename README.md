@@ -37,15 +37,16 @@
 <hr>
 
 ### Projets effectués :
-
-  - Application de chat en ligne (HTML, CSS, JS, PHP, SQL)
-  - Dashboard de diagnostic, pilotage et contrôle de robots (Laravel, Bulma CSS, SQL)
-  - Réalisation de librairies pour des capteurs ToF et des accéléromètres STM32 (C++)
-  - Réalisation d'une librairie de communication pour des cartes XBee (protocole ZigBee, commandes AT, C++)
-  - Maintenance d'un serveur sous ubuntu + création/déploiement d'applications avec docker
-  - Formations auprès d'étudiants sur les risques cyber de base
-  - Exemples de base en C# avec WPF (calculatrice, explorateur de fichiers, navigateur web)
-  - Exemples de base en Java & Spring (page web + communication avec une BDD) 
+  
+  - Dashboard de diagnostic, pilotage et contrôle de robots (Laravel, Bulma CSS, SQL) - projet Robotech Nancy (2022)
+  - Exemples de base en C# avec WPF (calculatrice, explorateur de fichiers, navigateur web) - Cours (2022)
+  - Exemples de base en Java & Spring (page web + communication avec une BDD) - Cours (2022)
+  - Application de chat en ligne (HTML, CSS, JS, PHP, SQL) - projet SEAmail (2021)
+  - Réalisation de librairies pour des capteurs ToF et des accéléromètres STM32 (C++) - projet Robotech Nancy (2021)
+  - Réalisation d'une librairie de communication pour des cartes XBee (protocole ZigBee, commandes AT, C++) - projet Robotech Nancy (2021)
+  - Maintenance d'un serveur sous ubuntu + création/déploiement d'applications avec docker - Polytech Services Nancy (2020)
+  - Réalisation d'une application web simple pour centraliser les liens vers les outils internes (HTML, CSS, PHP) - Polytech Services Nancy (2020)
+  - Formations auprès d'étudiants sur les risques cyber de base - Polytech Services Nancy (2020)
 
 <hr>
 
