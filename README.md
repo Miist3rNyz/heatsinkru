@@ -15,11 +15,12 @@
 
 ### Technologies utilisées :
 
-  - Web : HTML, CSS (Bulma - Bootstrap), JS (Ajax - JQuery), PHP (Laravel), Python (Flask), Java (Spring)
-  - BDD : MySQL, SQLite
-  - Bureautique : C# (WPF), Python (Tkinter), C++ (Gtkmm), JS (ElectronJs)
-  - Mobile : React Native
-  - Embarqué : C++, Python
+
+  - Web : HTML <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HTML" width="20" /></a>, CSS (Bulma - Bootstrap) <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS" width="20" /></a>, JS (Ajax - JQuery) <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS" width="20" /></a>, PHP (Laravel) <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="PHP" width="20" /></a>, Python (Flask) <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="HTML" width="20" /></a>, Java (Spring) <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="JAVA" width="20" /></a>
+  - BDD : MySQL <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" width="20" /></a>, SQLite <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/2306/2306173.png" alt="SQLite" width="20" /></a>
+  - Bureautique : C# (WPF) <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" alt="C#" width="20" /></a>, Python (Tkinter) <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="20" /></a>, C++ (Gtkmm) <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="20" /></a>, JS (ElectronJs) <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JS" width="20" /></a>
+  - Mobile : React Native <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/1183/1183672.png" alt="React" width="20" /></a>
+  - Embarqué : C++ <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" alt="C++" width="20" /></a>, Python <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="Python" width="20" /></a>
 
 <hr>
 
