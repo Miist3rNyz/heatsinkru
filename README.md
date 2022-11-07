@@ -41,6 +41,7 @@
   - Dashboard de diagnostic, pilotage et contrôle de robots (Laravel, Bulma CSS, SQL) - [Projet Robotech Nancy (2022)](https://github.com/RobotechNancy/interface_maintenance)
   - Exemples de base en C# avec WPF ([calculatrice](https://github.com/heatsinkru/calculatrice_CSharp), [explorateur de fichiers](https://github.com/heatsinkru/explorateur_fichiers_CSharp), [navigateur web](https://github.com/heatsinkru/navigateur_web_CSharp)) - Cours (2022)
   - Exemples de base en Java & Spring (page web + communication avec une BDD) - Cours (2022)
+  - Application de bureau sous linux (C++ - GTkmm) permettant le contrôle d'un robot via websockets - [Cours (2021)](https://github.com/heatsinkru/wifibot_Cpp)
   - Application de chat en ligne (HTML, CSS, JS, PHP, SQL) - [Projet SEAmail (2021)](https://github.com/SEAmail-International-Company/seamail)
   - Réalisation de librairies pour des capteurs ToF et des gyroscopes STM32 (C++) - [Projet Robotech Nancy (2021)](https://github.com/RobotechNancy/2021-2022/tree/main/informatique/Odometrie/Odom%C3%A9trie%20relative/MPU6050_gyro)
   - Réalisation d'une librairie de communication pour des cartes XBee (protocole ZigBee, commandes AT, C++) - [Projet Robotech Nancy (2021)](https://github.com/RobotechNancy/2021-2022/tree/main/informatique/Communication/Communication%20inter-robots)
