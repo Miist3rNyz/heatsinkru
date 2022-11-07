@@ -26,13 +26,13 @@
 
 ### IDEs utilisés :
 
-  - VSCode
-  - Visual Studio
-  - IntelliJ
-  - Android Studio
-  - STM32Cube
-  - Eclipse
-  - Vim
+  - VSCode <a href="#"><img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode" width="20" /></a>
+  - Visual Studio <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968389.png" alt="Visual Studio" width="20" /></a>
+  - IntelliJ <a href="#"><img src="https://www.jetbrains.com/idea/img/idea-edu.svg" alt="IntelliJ" width="20" /></a>
+  - Android Studio <a href="#"><img src="https://static.wikia.nocookie.net/logopedia/images/d/db/Android_Studio_Icon_2021.svg/revision/latest/scale-to-width-down/200?cb=20210305211354" alt="Android Studio" height="20" /></a>
+  - STM32Cube <a href="#"><img src="https://www.eletimes.com/wp-content/uploads/2017/08/RS425_Module_STM32-1068x1068.png" alt="STM32Cube" width="20" /></a>
+  - Eclipse <a href="#"><img src="https://www.eclipse.org/org/artwork/images/eclipse_ide_logo.png" alt="Eclipse" height="17" /></a>
+  - Vim <a href="#"><img src="https://www.vim.org/images/vim_on_fire.gif" alt="Vim" height="20" /></a>
 
 <hr>
 
