@@ -39,6 +39,7 @@
 ### Projets effectués :
   
   - Dashboard de diagnostic, pilotage et contrôle de robots (Laravel, Bulma CSS, SQL) - [Projet Robotech Nancy (2022)](https://github.com/RobotechNancy/interface_maintenance)
+  - Apprentissage et utilisation des design pattern en JAVA - [Cours de génie logiciel (2022)](https://github.com/heatsinkru/design_pattern_JAVA)
   - Exemples de base en C# avec WPF ([calculatrice](https://github.com/heatsinkru/calculatrice_CSharp), [explorateur de fichiers](https://github.com/heatsinkru/explorateur_fichiers_CSharp), [navigateur web](https://github.com/heatsinkru/navigateur_web_CSharp)) - Cours (2022)
   - Exemples de base en Java & Spring (page web + communication avec une BDD) - Cours (2022)
   - Application de bureau sous linux (C++ - GTkmm) permettant le contrôle d'un robot via websockets - [Cours (2021)](https://github.com/heatsinkru/wifibot_Cpp)
